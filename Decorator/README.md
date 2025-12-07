@@ -1,4 +1,4 @@
-# **Decorator Design Pattern**
+# **Decorator Design Pattern** 
 The Decorator Design pattern is a structural design pattern that allows adding new functionality to an existing object without changing its structure. The pattern creates a decorator class which wraps the original class and provides additional functionality.
 
 ## **Problem**
